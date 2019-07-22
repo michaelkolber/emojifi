@@ -1,6 +1,6 @@
 # emojifi – emojify your wi-fi
 
-A small tool that lets you use emojis in your Wi-Fi SSID on a Verizon FiOS router (the web UI does not allow it). Requires Python Requests be installed.
+A small tool that lets you use emojis in your Wi-Fi SSID on a Verizon FiOS router (the web UI does not allow it). Requires that Python `Requests` be installed.
 
 ---
 
